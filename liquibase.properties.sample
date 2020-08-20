@@ -1,0 +1,7 @@
+url=jdbc:mysql://localhost:3306/local
+username=yourusername
+password=yourpassword
+referenceUrl=jdbc:mysql://localhost:3306/sige_ref
+referenceUser=yourusername
+referencePassword=yourpassword
+classpath=../driver/mysql-connector-java-8.0.19.jar
